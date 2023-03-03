@@ -3,6 +3,8 @@ This was a partner project in which we learned about trees as well as the advant
 We learned how to qualify trees as well as how to traverse them.
 Throughout the project, we implemented binary, binary search, AVL, and Max Binary Heap trees.
 
+There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
+
 ## Learning Objectives
 * What is a binary tree
 * What is the difference between a binary tree and a Binary Search Tree
